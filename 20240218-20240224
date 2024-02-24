@@ -1,0 +1,25 @@
+20240218-20240224.md
+
+週報　2024/02/018 ~ 2024/02/24 目標 バックエンドエンジニアとしてメガベンチャーから内定をもらう
+
+マイルストーン1 1on1ミーティング(1回目) Milestone 1: Intermediate, Backend Project 1, Frontend 1, Git, Frontend Beginner Project, Backend Project 2, Backend Project 2 Team Dev, Frontend project 4,
+
+マイルストーン2 (2~3 Months): Advanced, Backend Project 3
+
+1on1ミーティング.
+
+OOP, Database,
+
+今週やったこと：実際にやったこと・実稼働
+
+Task1
+ 〜中級(制御フローの赤コーディング問題の途中まで)
+
+
+所感・学び
+
+体調は大分回復し向ける時間が増えた。
+スタックやヒープメモリなどなんとなく概念は掴めたが、メモリ管理の上で重要なため適宜復習しておきたい。
+
+学び
+末尾再帰を実装する際に、ベースケースの規定がうまくいかない事が多々あった。問題の題意から、条件と情報の整理を行いコードに落とし込めるようにするために、アウトプットを増やしていきたい。
